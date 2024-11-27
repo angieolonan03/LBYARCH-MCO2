@@ -1,4 +1,7 @@
 # LBYARCH-MCO2
+Names(S16):   
+OLONAN, ANGELA ROSE  
+PILEA, JOSE MIGUEL
 ## Overview
 This project is submitted as part of the requirements for LBYARCH, under the supervision of Sir Jonathan Cempron. The program implements a dot product computation using both C and x86-64 assembly. The primary objective is to compare the performance of these two implementations in terms of execution time and validate the correctness of the results.
 
@@ -12,12 +15,12 @@ Operating System: Windows
 Hardware Requirements: x86-64 compatible processor.  
 
 ## Compilation Steps (done in cmd):
-nasm -f win64 func.asm  
-gcc -std=c99 -c main.c -o main.obj -m64  
-gcc main.obj func.obj -o main.exe -m64  
-.\main  
+
+![image](https://github.com/user-attachments/assets/cfeb3de5-6445-47f0-9d9f-a711a1af90db)
+
 
 ## Output
+![image](https://github.com/user-attachments/assets/192c06d9-a34b-4ec5-aaa3-d4fc3b3dd835)
 
 ## Comparative Analysis
 
